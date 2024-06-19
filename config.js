@@ -11,15 +11,15 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Rei',
+	name: 'Violet',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
+	greetingAfternoon: 'Good afternoon!',
+	greetingEvening: 'Good evening!',
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
@@ -50,45 +50,44 @@ const CONFIG = {
 	// ├┴┐│ │ │  │ │ ││││└─┐
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
-	firstButtonsContainer: [
-		{
-			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
-		},
-		{
-			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://gmail.com/',
-		},
-		{
-			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
-		},
-		{
-			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
-		},
-		{
-			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
-		},
-		{
-			id: '6',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
-		},
-	],
-
+	  firstButtonsContainer: [
+    {
+      id: '1',
+      name: 'Github',
+      icon: 'github',
+      link: 'https://github.com/',
+    },
+    {
+      id: '2',
+      name: 'Mail',
+      icon: 'mail',
+      link: 'https://mail.google.com/mail/u/0/#inbox',
+    },
+    {
+      id: '3',
+      name: 'Todoist',
+      icon: 'trello',
+      link: 'https://todoist.com',
+    },
+    {
+      id: '4',
+      name: 'Calendar',
+      icon: 'calendar',
+      link: 'https://calendar.google.com/calendar/r',
+    },
+    {
+      id: '5',
+      name: 'Reddit',
+      icon: 'glasses',
+      link: 'https://reddit.com',
+    },
+    {
+      id: '6',
+      name: 'Odysee',
+      icon: 'youtube',
+      link: 'https://www.youtube.com/',
+    },
+  ],
 	secondButtonsContainer: [
 		{
 			id: '1',
@@ -139,16 +138,16 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Kren',
-					link: 'https://www.youtube.com/playlist?list=PLgF_gQh7OwJzwtN08b5oQ_-s3uZ6IsLp-',
+					name: 'YTmusic',
+					link: 'https://music.youtube.com/',
 				},
 				{
-					name: 'Underrated',
-					link: 'https://www.youtube.com/playlist?list=PLWTjjEmzNQCvKwhXmedIRmxXU-nUy7XIi',
+					name: 'Nigga',
+					link: 'https://music.youtube.com/playlist?list=PLF7ha5aPaR1iX2ScIpHfQn4iU8Sl2BR5d',
 				},
 				{
-					name: 'Japanese',
-					link: 'https://www.youtube.com/playlist?list=PLWTjjEmzNQCt67v5-tO3_sA6sCaepg5I-',
+					name: 'W Soundtracks',
+					link: 'https://music.youtube.com/playlist?list=PLF7ha5aPaR1j_Ta3JiPbFxULCg_W6IGsp',
 				},
 				{
 					name: 'Lofi',
@@ -161,20 +160,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Telegram',
+					link: 'https://web.telegram.org/a/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'TikTok',
+					link: 'https://www.tiktok.com/foryou',
 				},
 				{
-					name: 'X',
-					link: 'https://www.x.com',
+					name: 'ComicK',
+					link: 'https://comick.io/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'AniWave',
+					link: 'https://aniwave.to/home',
 				},
 			],
 		},
