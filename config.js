@@ -164,8 +164,8 @@ const CONFIG = {
 					link: 'https://duckduckgo.com/?t=ffab&q=chatgpt&ia=chat',
 				},
 				{
-					name: 'TikTok',
-					link: 'https://www.tiktok.com/foryou',
+					name: 'sudo-flix',
+					link: 'https://flix.kanded.xyz/',
 				},
 				{
 					name: 'ComicK',
