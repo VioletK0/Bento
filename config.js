@@ -53,15 +53,15 @@ const CONFIG = {
 	  firstButtonsContainer: [
     {
       id: '1',
-      name: 'Instagram',
-      icon: 'instagram',
-      link: 'https://www.instagram.com/',
-    },
-    {
-      id: '2',
       name: 'Facebook',
       icon: 'facebook',
       link: 'https://www.facebook.com/',
+    },
+    {
+      id: '2',
+      name: 'Instagram',
+      icon: 'instagram',
+      link: 'https://www.instagram.com/',
     },
     {
       id: '3',
