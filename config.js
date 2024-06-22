@@ -71,9 +71,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Tiktok',
+      icon: 'music-2',
+      link: 'https://www.tiktok.com/foryou',
     },
     {
       id: '5',
