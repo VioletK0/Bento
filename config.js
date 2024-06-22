@@ -150,8 +150,8 @@ const CONFIG = {
 					link: 'https://music.youtube.com/playlist?list=PLF7ha5aPaR1j_Ta3JiPbFxULCg_W6IGsp',
 				},
 				{
-					name: 'Lofi',
-					link: 'https://www.youtube.com/live/lHpYyYtkmrw?si=Cv6wNnDWWhJGlL65',
+					name: 'Liked Songs',
+					link: 'https://music.youtube.com/playlist?list=LM',
 				},
 			],
 		},
