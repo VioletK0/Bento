@@ -53,21 +53,21 @@ const CONFIG = {
 	  firstButtonsContainer: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
-    },
-    {
-      id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.google.com/mail/u/0/#inbox',
-    },
-    {
-      id: '3',
       name: 'Instagram',
       icon: 'instagram',
       link: 'https://www.instagram.com/',
+    },
+    {
+      id: '2',
+      name: 'Facebook',
+      icon: 'facebook',
+      link: 'https://www.facebook.com/',
+    },
+    {
+      id: '3',
+      name: 'Reddit',
+      icon: 'bot',
+      link: 'https://reddit.com',
     },
     {
       id: '4',
@@ -77,15 +77,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bot',
-      link: 'https://reddit.com',
-    },
-    {
-      id: '6',
       name: 'YouTube',
       icon: 'youtube',
       link: 'https://www.youtube.com/',
+    },
+    {
+      id: '6',
+      name: 'Github',
+      icon: 'github',
+      link: 'https://github.com/',
     },
   ],
 	secondButtonsContainer: [
