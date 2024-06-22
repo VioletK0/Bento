@@ -160,8 +160,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Telegram',
-					link: 'https://web.telegram.org/a/',
+					name: 'ChatGPT',
+					link: 'https://duckduckgo.com/?t=ffab&q=chatgpt&ia=chat',
 				},
 				{
 					name: 'TikTok',
