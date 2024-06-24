@@ -156,7 +156,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'tv-minimal-play',
 			id: '2',
 			links: [
 				{
