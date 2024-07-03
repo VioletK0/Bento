@@ -142,7 +142,7 @@ const CONFIG = {
 					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'My Playlist',
+					name: 'Liked Songs',
 					link: 'https://open.spotify.com/collection/tracks',
 				},
 				{
