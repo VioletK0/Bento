@@ -138,20 +138,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'YTmusic',
-					link: 'https://music.youtube.com/',
+					name: 'Spotify',
+					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'Nigga',
-					link: 'https://music.youtube.com/playlist?list=PLF7ha5aPaR1iX2ScIpHfQn4iU8Sl2BR5d',
+					name: 'My Playlist',
+					link: 'https://open.spotify.com/collection/tracks',
+				},
+				{
+					name: 'YTmusic',
+					link: 'https://music.youtube.com/playlist?list=PLF7ha5aPaR1j_Ta3JiPbFxULCg_W6IGsp',
 				},
 				{
 					name: 'W Soundtracks',
 					link: 'https://music.youtube.com/playlist?list=PLF7ha5aPaR1j_Ta3JiPbFxULCg_W6IGsp',
-				},
-				{
-					name: 'Liked Songs',
-					link: 'https://music.youtube.com/playlist?list=LM',
 				},
 			],
 		},
