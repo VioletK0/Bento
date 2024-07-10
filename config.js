@@ -14,13 +14,13 @@ const CONFIG = {
 	name: 'Violet',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon!',
-	greetingEvening: 'Good evening!',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Good morning,',
+	greetingAfternoon: 'Good afternoon,',
+	greetingEvening: 'Good evening,',
+	greetingNight: 'Go to Sleep,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
