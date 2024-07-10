@@ -142,8 +142,8 @@ const CONFIG = {
 					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'Liked Songs',
-					link: 'https://open.spotify.com/collection/tracks',
+					name: 'Sharlyn',
+					link: 'https://open.spotify.com/playlist/76PCQPBdaWrbyvXawSn0L6?si=2hqVEdkTRumOnk3x_sCXuw&pt=7865752b86d4ebf606df953f59b0f7df',
 				},
 				{
 					name: 'YTmusic',
