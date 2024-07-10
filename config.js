@@ -147,7 +147,7 @@ const CONFIG = {
 				},
 				{
 					name: 'YTmusic',
-					link: 'https://music.youtube.com/playlist?list=PLF7ha5aPaR1j_Ta3JiPbFxULCg_W6IGsp',
+					link: 'https://music.youtube.com/',
 				},
 				{
 					name: 'W Soundtracks',
