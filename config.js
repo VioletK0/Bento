@@ -146,8 +146,8 @@ const CONFIG = {
 					link: 'https://open.spotify.com/playlist/76PCQPBdaWrbyvXawSn0L6?si=2hqVEdkTRumOnk3x_sCXuw&pt=7865752b86d4ebf606df953f59b0f7df',
 				},
 				{
-					name: 'YTmusic',
-					link: 'https://music.youtube.com/',
+					name: 'Yeat',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1EIYHuBFhMamxQ?si=hGGGSEPyR36oFv4TU1Ee_A',
 				},
 				{
 					name: 'W Soundtracks',
