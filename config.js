@@ -143,15 +143,15 @@ const CONFIG = {
 				},
 				{
 					name: 'Sharlyn',
-					link: 'https://open.spotify.com/playlist/76PCQPBdaWrbyvXawSn0L6?si=2hqVEdkTRumOnk3x_sCXuw&pt=7865752b86d4ebf606df953f59b0f7df',
+					link: 'https://open.spotify.com/playlist/1c5KkW2kVObQ8DvFkCf2lk?si=6d356c5216564c10',
 				},
 				{
 					name: 'Yeat',
 					link: 'https://open.spotify.com/playlist/37i9dQZF1EIYHuBFhMamxQ?si=hGGGSEPyR36oFv4TU1Ee_A',
 				},
 				{
-					name: 'W Soundtracks',
-					link: 'https://music.youtube.com/playlist?list=PLF7ha5aPaR1j_Ta3JiPbFxULCg_W6IGsp',
+					name: 'Travis Scott',
+					link: 'https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY?si=x5NWrIqGSWG3RWQ0_Ho-wQ',
 				},
 			],
 		},
