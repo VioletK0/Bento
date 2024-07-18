@@ -164,8 +164,8 @@ const CONFIG = {
 					link: 'https://duckduckgo.com/?t=ffab&q=chatgpt&ia=chat',
 				},
 				{
-					name: 'sudo-flix',
-					link: 'https://flix.kanded.xyz/',
+					name: 'lonelil',
+					link: 'https://watch.lonelil.ru/',
 				},
 				{
 					name: 'ComicK',
