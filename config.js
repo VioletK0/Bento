@@ -164,8 +164,8 @@ const CONFIG = {
 					link: 'https://duckduckgo.com/?t=ffab&q=chatgpt&ia=chat',
 				},
 				{
-					name: 'Braflix',
-					link: 'https://www.braflix.ru/',
+					name: 'Rivestream',
+					link: 'https://rivestream.live/',
 				},
 				{
 					name: 'ComicK',
