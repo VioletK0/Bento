@@ -172,8 +172,8 @@ const CONFIG = {
 					link: 'https://comick.io/',
 				},
 				{
-					name: 'AniWave',
-					link: 'https://aniwave.to/home',
+					name: 'Animetsu',
+					link: 'https://animetsu.cc/',
 				},
 			],
 		},
