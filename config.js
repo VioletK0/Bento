@@ -172,8 +172,8 @@ const CONFIG = {
 					link: 'https://comick.io/',
 				},
 				{
-					name: 'Animetsu',
-					link: 'https://animetsu.cc/',
+					name: 'HiAnime',
+					link: 'https://hianime.to/home',
 				},
 			],
 		},
