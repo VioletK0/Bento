@@ -172,8 +172,8 @@ const CONFIG = {
 					link: 'https://comick.io/',
 				},
 				{
-					name: 'Miruro',
-					link: 'https://www.miruro.tv/',
+					name: 'HiAnime',
+					link: 'https://hianime.to/home',
 				},
 			],
 		},
