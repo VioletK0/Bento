@@ -160,7 +160,7 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'DuckChat',
+					name: 'DuckAI',
 					link: 'https://duckduckgo.com/?t=ffab&q=chatgpt&ia=chat',
 				},
 				{
