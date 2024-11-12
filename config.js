@@ -164,8 +164,8 @@ const CONFIG = {
 					link: 'https://duckduckgo.com/?t=ffab&q=chatgpt&ia=chat',
 				},
 				{
-					name: 'Freek',
-					link: 'https://freek.to/',
+					name: 'StreamFlix',
+					link: 'https://watch.streamflix.one/',
 				},
 				{
 					name: 'ComicK',
