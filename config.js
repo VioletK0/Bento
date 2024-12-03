@@ -143,7 +143,7 @@ const CONFIG = {
 				},
 				{
 					name: 'YTMusic',
-					link: 'https://open.spotify.com/playlist/1c5KkW2kVObQ8DvFkCf2lk?si=6d356c5216564c10',
+					link: 'https://music.youtube.com/',
 				},
 				{
 					name: 'Yeat',
